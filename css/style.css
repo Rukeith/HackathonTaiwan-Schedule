@@ -1,9 +1,11 @@
 body {
 	background-color: #FF8C00;
+
 }
 
 .Main {
 	text-align: center;
+	padding-right: 10px;
 }
 
 .logo-img {
@@ -15,6 +17,9 @@ body {
 .logo-img:hover {
 	width: 160px;
 	margin: 10px 0px 10px 0px;
+}
+.table {
+	cursor: default;
 }
 
 thead {
