@@ -9,4 +9,22 @@ body {
 .logo-img {
 	width: 140px;
 	margin: 10px 0px 30px 0px;
+	cursor: pointer;
+}
+
+.logo-img:hover {
+	width: 160px;
+	margin: 10px 0px 10px 0px;
+}
+
+thead {
+	color: white;
+	background-color: rgb(46,103,97);
+}
+
+thead th {
+	text-align: center;
+}
+thead th:hover {
+	background-color: rgb(92,148,148);
 }
