@@ -1,1 +1,3 @@
-# Make a html file to show Hackathon Taiwan Schedule
+### Hackathon Taiwan Schedule
+
+Make a html file to show Hackathon Taiwan Schedule
