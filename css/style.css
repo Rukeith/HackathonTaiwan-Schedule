@@ -34,3 +34,6 @@ thead th {
 thead th:hover {
 	background-color: rgb(92,148,148);
 }
+.data_info {
+    display: none;
+}
